@@ -1,0 +1,12 @@
+{
+    "daoAddress": "0xc466e089CfC2935dF3f471AC291402e00d41C9D7",
+    "tokenManagerAddress": "0x87a31b9a2ee0b7b7899192e94eec3334135d607e",
+    "votingAddress": "0x29c58e25df47f1b958e1d707fb7b4a9800554d5c",
+    "environment": "rinkeby",
+    "mints": [
+      ["0x7c343AbB2b180732583a3134E4A9f6e138D320D2", "500000000000000000000"],
+      ["0xDc2aDfA800a1ffA16078Ef8C1F251D50DcDa1065", "500000000000000000000"]
+    ],
+    "burns": [
+    ]
+  }
